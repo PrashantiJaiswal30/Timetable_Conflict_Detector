@@ -1,0 +1,6 @@
+Monday,Mathematics,09:00,10:00,A101,Mr Sharma
+Monday,Physics,09:30,10:30,A102,Mr Kumar
+Monday,Computer Science,11:00,12:00,A103,Mr Patel
+Tuesday,English,10:00,11:00,A104,Ms Singh
+Tuesday,Database,10:30,11:30,A105,Ms Shah
+Wednesday,Operating Systems,09:00,10:00,A106,Mr Vermamonday,maths,12.00,01.30,218,diresh soni
